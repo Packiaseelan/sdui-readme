@@ -25,13 +25,13 @@ Below is an example of the label JSON format in use:
 ```json
 {
     "type": "label",
-    "identifier": "login_title_label",
+    "identifier": "hello_world_label",
     "properties": {
-        "title": "LOG IN",
+        "title": "Hello World",
         "style": "theme1.staticText.pageTitle"
     },
     "accessibility": {
-        "identifier": "login_title",
+        "identifier": "hello_world_title",
         "value": "Log In"
     }
 }
