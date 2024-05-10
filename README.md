@@ -1,3 +1,3 @@
 # sdui-readme
 
-[Link to README.md](README.md)
+[Label JSON Format](label_json_format.md)
