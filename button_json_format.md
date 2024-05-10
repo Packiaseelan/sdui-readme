@@ -37,7 +37,7 @@ Below is an example of the button JSON format in use:
         "type": "api",
         "apiIdentifier": "authentication",
         "details": {
-            "url": "submitDataiOS",
+            "url": "<YOUR_URL_ACTION>",
             "method": "POST",
             "headers": {
                 "contentType": "application/json"
